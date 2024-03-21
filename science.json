@@ -1,0 +1,15 @@
+{
+  "name": "Science",
+  "questions": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2O", "CO2", "NaCl"],
+      "correct_answer": "H2O"
+    },
+    {
+      "question": "What is the nearest planet to the Sun?",
+      "options": ["Earth", "Mars", "Mercury", "Venus"],
+      "correct_answer": "Mercury"
+    }
+  ]
+}
