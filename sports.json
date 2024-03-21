@@ -1,0 +1,15 @@
+{
+  "name": "Sports",
+  "questions": [
+    {
+      "question": "Which sport is known as the 'king of sports'?",
+      "options": ["Soccer", "Basketball", "Cricket", "Tennis"],
+      "correct_answer": "Soccer"
+    },
+    {
+      "question": "In which country did the modern Olympic Games originate?",
+      "options": ["Greece", "United States", "France", "United Kingdom"],
+      "correct_answer": "Greece"
+    }
+  ]
+}
